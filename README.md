@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Bruno Massaroni 😁
+## Bem-vindo(a) ao meu perfil, Bruno Massaroni 😁
 
  <div>
    <a href="https://github.com/BRNMassaroni">
